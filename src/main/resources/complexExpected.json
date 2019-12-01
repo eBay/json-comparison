@@ -1,0 +1,11 @@
+{
+  "fruit": "Apple",
+  "size": "Large",
+  "color": [
+    "Yellow",
+    "Red"
+  ],
+  "origin": {
+    "country": "de"
+  }
+}

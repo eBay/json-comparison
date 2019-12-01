@@ -1,0 +1,11 @@
+{
+  "fruit": "Apple",
+  "color": [
+    "Red",
+    "Yellow"
+  ],
+  "type": "pinkLady",
+  "origin": {
+    "country": "us"
+  }
+}
