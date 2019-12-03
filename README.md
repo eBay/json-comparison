@@ -120,6 +120,15 @@ Json Comparison returns 3 collections
 
 # QuickStart
 To use, download the JAR, or add the following to your project's pom.xml:
+
+```
+     <repository>
+          <id>github</id>
+          <name>GitHub ebay Apache Maven Packages</name>
+          <url>https://maven.pkg.github.com/eBay/json-comparison</url>
+        </repository>
+```
+
 ```
     <dependency>
         <groupId>com.json.comparison</groupId>
