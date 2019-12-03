@@ -66,7 +66,8 @@ Json Comparison supports Json Path syntax, since Paths are regular expression pa
 
  
 ```Json
- Path for secondElement is rootElement\\.secondElement
+ Path for secondElement is     
+ rootElement\\.secondElement
 
   {
      "rootElement": {
@@ -76,7 +77,8 @@ Json Comparison supports Json Path syntax, since Paths are regular expression pa
 ```
 
 ```JSON
-  Path for first item value in array "rootElement\\.array\\[1\\]\\.item.value"
+  Path for first item value in array is
+  rootElement\\.array\\[1\\]\\.item.value
 
     {
         "rootElement": {
@@ -93,7 +95,8 @@ Json Comparison supports Json Path syntax, since Paths are regular expression pa
 ```
 
 ```JSON
-Path for all elements start with A     rootElement\\.startWithA.*
+Path for all elements start with A is
+rootElement\\.startWithA.*
 
  {
      "rootElement": {
