@@ -12,6 +12,14 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub eBay Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/eBay/json-comparison</url>
+    </repository>
+  </distributionManagement>
+
   <dependencies>
     <dependency>
       <groupId>org.skyscreamer</groupId>
